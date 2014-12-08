@@ -1,0 +1,38 @@
+D:\progs\vb\impression_etiquette\impression_etiquette\bin\Release\impression_etiquette.exe.config
+D:\progs\vb\impression_etiquette\impression_etiquette\bin\Release\impression_etiquette.exe
+D:\progs\vb\impression_etiquette\impression_etiquette\bin\Release\impression_etiquette.pdb
+D:\progs\vb\impression_etiquette\impression_etiquette\bin\Release\impression_etiquette.xml
+D:\progs\vb\impression_etiquette\impression_etiquette\obj\Release\impression_etiquette.fenetre.resources
+D:\progs\vb\impression_etiquette\impression_etiquette\obj\Release\impression_etiquette.Resources.resources
+D:\progs\vb\impression_etiquette\impression_etiquette\obj\Release\impression_etiquette.vbproj.GenerateResource.Cache
+D:\progs\vb\impression_etiquette\impression_etiquette\obj\Release\impression_etiquette.exe
+D:\progs\vb\impression_etiquette\impression_etiquette\obj\Release\impression_etiquette.xml
+D:\progs\vb\impression_etiquette\impression_etiquette\obj\Release\impression_etiquette.pdb
+d:\users\F85601A\Desktop\Impression Coswin\Dossier de développement\impression_etiquette\bin\Release\impression_etiquette.exe.config
+d:\users\F85601A\Desktop\Impression Coswin\Dossier de développement\impression_etiquette\obj\Release\impression_etiquette.exe
+d:\users\F85601A\Desktop\Impression Coswin\Dossier de développement\impression_etiquette\obj\Release\impression_etiquette.xml
+d:\users\F85601A\Desktop\Impression Coswin\Dossier de développement\impression_etiquette\obj\Release\impression_etiquette.pdb
+d:\users\F85601A\Desktop\Impression Coswin\Dossier de développement\impression_etiquette\bin\Release\impression_etiquette.exe
+d:\users\F85601A\Desktop\Impression Coswin\Dossier de développement\impression_etiquette\bin\Release\impression_etiquette.pdb
+d:\users\F85601A\Desktop\Impression Coswin\Dossier de développement\impression_etiquette\bin\Release\impression_etiquette.xml
+d:\users\F85601A\Desktop\Impression Coswin\Dossier de développement\impression_etiquette\obj\Release\impression_etiquette.fenetre.resources
+d:\users\F85601A\Desktop\Impression Coswin\Dossier de développement\impression_etiquette\obj\Release\impression_etiquette.Resources.resources
+d:\users\F85601A\Desktop\Impression Coswin\Dossier de développement\impression_etiquette\obj\Release\impression_etiquette.vbproj.GenerateResource.Cache
+T:\Miscellaneous\GMAO - Coswin\Projet Coswin\Impression Coswin\Dossier de développement\impression_etiquette\bin\Release\impression_etiquette.exe.config
+T:\Miscellaneous\GMAO - Coswin\Projet Coswin\Impression Coswin\Dossier de développement\impression_etiquette\obj\Release\impression_etiquette.exe
+T:\Miscellaneous\GMAO - Coswin\Projet Coswin\Impression Coswin\Dossier de développement\impression_etiquette\obj\Release\impression_etiquette.xml
+T:\Miscellaneous\GMAO - Coswin\Projet Coswin\Impression Coswin\Dossier de développement\impression_etiquette\obj\Release\impression_etiquette.pdb
+T:\Miscellaneous\GMAO - Coswin\Impression Coswin\Dossier de développement\impression_etiquette\bin\Release\impression_etiquette.exe.config
+T:\Miscellaneous\GMAO - Coswin\Impression Coswin\Dossier de développement\impression_etiquette\obj\Release\impression_etiquette.exe
+T:\Miscellaneous\GMAO - Coswin\Impression Coswin\Dossier de développement\impression_etiquette\obj\Release\impression_etiquette.xml
+T:\Miscellaneous\GMAO - Coswin\Impression Coswin\Dossier de développement\impression_etiquette\obj\Release\impression_etiquette.pdb
+d:\users\F85601A\Desktop\Dossier de développement\impression_etiquette\bin\Release\impression_etiquette.exe.config
+d:\users\F85601A\Desktop\Dossier de développement\impression_etiquette\obj\Release\impression_etiquette.exe
+d:\users\F85601A\Desktop\Dossier de développement\impression_etiquette\obj\Release\impression_etiquette.xml
+d:\users\F85601A\Desktop\Dossier de développement\impression_etiquette\obj\Release\impression_etiquette.pdb
+d:\users\F85601A\Desktop\Dossier de développement\impression_etiquette\bin\Release\impression_etiquette.exe
+d:\users\F85601A\Desktop\Dossier de développement\impression_etiquette\bin\Release\impression_etiquette.pdb
+d:\users\F85601A\Desktop\Dossier de développement\impression_etiquette\bin\Release\impression_etiquette.xml
+d:\users\F85601A\Desktop\Dossier de développement\impression_etiquette\obj\Release\impression_etiquette.fenetre.resources
+d:\users\F85601A\Desktop\Dossier de développement\impression_etiquette\obj\Release\impression_etiquette.Resources.resources
+d:\users\F85601A\Desktop\Dossier de développement\impression_etiquette\obj\Release\impression_etiquette.vbproj.GenerateResource.Cache

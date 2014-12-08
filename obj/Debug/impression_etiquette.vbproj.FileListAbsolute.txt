@@ -1,0 +1,14 @@
+D:\progs\vb\impression_etiquette\impression_etiquette\bin\Debug\impression_etiquette.exe.config
+D:\progs\vb\impression_etiquette\impression_etiquette\obj\Debug\impression_etiquette.fenetre.resources
+D:\progs\vb\impression_etiquette\impression_etiquette\obj\Debug\impression_etiquette.Resources.resources
+D:\progs\vb\impression_etiquette\impression_etiquette\obj\Debug\impression_etiquette.vbproj.GenerateResource.Cache
+d:\users\F85601A\Desktop\impression_etiquette\impression_etiquette\bin\Debug\impression_etiquette.exe.config
+d:\users\F85601A\Desktop\impression_etiquette\impression_etiquette\obj\Debug\impression_etiquette.fenetre.resources
+d:\users\F85601A\Desktop\impression_etiquette\impression_etiquette\obj\Debug\impression_etiquette.Resources.resources
+d:\users\F85601A\Desktop\impression_etiquette\impression_etiquette\obj\Debug\impression_etiquette.vbproj.GenerateResource.Cache
+D:\progs\vb\impression_etiquette\impression_etiquette\bin\Debug\impression_etiquette.exe
+D:\progs\vb\impression_etiquette\impression_etiquette\bin\Debug\impression_etiquette.pdb
+D:\progs\vb\impression_etiquette\impression_etiquette\bin\Debug\impression_etiquette.xml
+D:\progs\vb\impression_etiquette\impression_etiquette\obj\Debug\impression_etiquette.exe
+D:\progs\vb\impression_etiquette\impression_etiquette\obj\Debug\impression_etiquette.xml
+D:\progs\vb\impression_etiquette\impression_etiquette\obj\Debug\impression_etiquette.pdb
